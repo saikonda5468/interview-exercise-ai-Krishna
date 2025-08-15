@@ -1,0 +1,4 @@
+# Abuse Policy
+
+We investigate reports of abuse. If your domain is disabled for abuse, please reply to the "abuse ticket"
+with evidence of remediation. The Abuse Team will review and re-enable if compliant.

@@ -1,0 +1,10 @@
+# WHOIS Update FAQ
+
+- How do I update my WHOIS?
+  Go to Account > Domain Management > Edit Contact Details. Ensure email and phone are valid.
+
+- How long does it take?
+  Updates typically propagate within minutes but can take up to 24 hours.
+
+- Do I need to contact support?
+  If your domain is suspended, after updating WHOIS, contact support to expedite reactivation.

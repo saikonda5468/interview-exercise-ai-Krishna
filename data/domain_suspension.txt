@@ -1,0 +1,16 @@
+# Domain Suspension Guidelines
+
+## Section 4.2: Reasons for Suspension
+Domains may be suspended due to:
+- Missing or invalid WHOIS contact information
+- Abuse complaints (e.g., phishing, malware distribution)
+- Payment or renewal failures beyond the grace period
+
+## Section 4.3: Reactivation
+To reactivate a suspended domain:
+1. Update WHOIS records with valid contact details.
+2. Resolve outstanding abuse complaints by replying to the abuse team.
+3. If related to billing, complete payment and contact billing support.
+
+## Section 4.4: Notifications
+We send notices to the registrant email. In rare cases, emails may be filtered or bounce.
